@@ -26,7 +26,7 @@ public class HTMLTagMaker {
         // Output the HTML string
         System.out.println("HTML string: " + htmlString);
         
-        scanner.close();
+        
     }
 
     public static String makeTags(String tag, String word) {
